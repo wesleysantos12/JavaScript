@@ -7,16 +7,24 @@ Exercícios Práticos - Operadores em JavaScript
 // 1. Declare duas variáveis numéricas e exiba a soma usando o operador `+`.
 let a = 10;
 let b = 30;
+console.log(a + b); //40
 
-console.log(a + b); //30
 // 2. Declare duas variáveis numéricas e exiba a subtração usando o operador `-`.
-
+let a = 60;
+let b = 30;
+console.log(a - b); //40
 // 3. Declare duas variáveis numéricas e exiba a multiplicação usando o operador `*`.
-
+let a = 60;
+let b = 30;
+console.log(a * b); //40
 // 4. Declare duas variáveis numéricas e exiba a divisão usando o operador `/`.
-
+let a = 60;
+let b = 30;
+console.log(a / b); //40
 // 5. Declare duas variáveis numéricas e exiba o resto da divisão usando `%`.
-
+let a = 60;
+let b = 30;
+console.log(a % b); //40
 // 6. Use o operador de exponenciação `**` para calcular 2 elevado a 5.
 
 // 7. Crie uma variável e use o operador `+=` para somar um valor a ela.
